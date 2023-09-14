@@ -1,0 +1,14 @@
+C:\ODBC\RentalMOBIL\KlinikSAYA\bin\Debug\KlinikSAYA.exe
+C:\ODBC\RentalMOBIL\KlinikSAYA\bin\Debug\KlinikSAYA.pdb
+C:\ODBC\RentalMOBIL\KlinikSAYA\bin\Debug\KlinikSAYA.xml
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\ResolveAssemblyReference.cache
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.FrmBayar.resources
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.frmDokter.resources
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.FORMPELANNGAN.resources
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.frmPeriksa.resources
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.Resources.resources
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\rentalMOBIL.vbproj.GenerateResource.Cache
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.exe
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.xml
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.pdb
+C:\ODBC\RentalMOBIL\KlinikSAYA\obj\Debug\KlinikSAYA.frmKendaraan.resources
